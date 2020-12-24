@@ -2,7 +2,7 @@
 
 ## Models
 
-The translation, segmentation and truecasing models required by the system are available for download via **Zenodo**. You must download the models separately, and extract the archive into the `models` folder.
+The translation, segmentation and truecasing models required by the system are available for download via [Zenodo](https://zenodo.org/record/4392873). You must download the models separately, and extract the archive into the `models` folder.
 
 ## Instructions
 
