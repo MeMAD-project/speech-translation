@@ -4,7 +4,7 @@
 
 * `python >= 3.0`
 * Data processing scripts from [`moses`](https://github.com/moses-smt/mosesdecoder)
-- [Attention bridge (OpenNMT-py form)](https://github.com/Helsinki-NLP/OpenNMT-py/tree/att-brg)
+- [Attention bridge (OpenNMT-py fork)](https://github.com/Helsinki-NLP/OpenNMT-py/tree/att-brg)
 
 ## Models
 
