@@ -1,5 +1,11 @@
 # MeMAD end-to-end speech translation system
 
+## Dependencies
+
+* `python >= 3.0`
+* Data processing scripts from [`moses`](https://github.com/moses-smt/mosesdecoder)
+- [Attention bridge (OpenNMT-py form)](https://github.com/Helsinki-NLP/OpenNMT-py/tree/att-brg)
+
 ## Models
 
 The translation, segmentation and truecasing models required by the system are available for download via [Zenodo](https://zenodo.org/record/4392873). You must download the models separately, and extract the archive into the `models` folder.
